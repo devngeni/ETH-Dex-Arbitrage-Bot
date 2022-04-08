@@ -10,4 +10,3 @@ The bot will purchase and sell  token(s) across decentralised exchanges to profi
 - Telegram API (for notifications)
 
 
-![IconlogoTelegram](https://user-images.githubusercontent.com/81178958/162486833-21bd65cc-c326-4d40-bf44-d2b4237cb33f.png)
