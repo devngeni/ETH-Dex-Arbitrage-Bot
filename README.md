@@ -9,4 +9,8 @@ The bot will purchase and sell  token(s) across decentralised exchanges to profi
 - Web3 libraries 
 - Telegram API (for notifications)
 
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
 
+Relevant Blockchains: [Ethereum]
+
+dApp Completion date: [28.08.2021]
